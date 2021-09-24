@@ -152,5 +152,10 @@ _THIS IS SUPER IMPORTANT_, otherwise Prettier might destroy your solution:
 ```
 2. let includesNumber;
 8. let array = [1, 3, 7, 4, 5, 2, 1];
-
-```
+5. let item = array[i];
+4. for (let i = 0; i < array.length; i++) {
+7. let numberToSearchFor = 5;
+9.}
+6. if (item === numberToSearchFor) {
+3. console.log('Array includes the number!')   
+. }
